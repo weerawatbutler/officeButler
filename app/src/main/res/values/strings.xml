@@ -4,4 +4,8 @@
     <string name="pass">Password</string>
     <string name="name">Name</string>
     <string name="regis">New Register</string>
+    <string name="title_avatar">Not choose image</string>
+    <string name="message_avatar">Please choose image for avatar</string>
+    <string name="title_space">Have space</string>
+    <string name="message_space">please fill all blank</string>
 </resources>
